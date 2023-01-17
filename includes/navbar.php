@@ -11,7 +11,7 @@
         <a class="nav-link" href="new.php">nytt ønske <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://mona-og-jan-inge.webnode.com/" target="_blank"><i class="far fa-heart"></i> Bryllupssiden</a>
+        <a class="nav-link" href="blank" target="_blank"><i class="far fa-heart"></i> Bryllupssiden</a>
       </li>
      
      <?php if(isset($_SESSION['email'])) { ?> 
